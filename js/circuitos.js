@@ -1,4 +1,4 @@
-const circuitos = [
+export const circuitos = [
     {
       nombre: "Circuito de Mónaco",
       pais: "Mónaco",
